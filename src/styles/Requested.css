@@ -1,0 +1,12 @@
+.successful_request{
+    font-size: 30px;
+}
+
+.cancel_request_button{
+    font-family: Times;
+    font-size: 15px;
+    color: black;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+}

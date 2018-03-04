@@ -1,0 +1,14 @@
+/* Styles */
+#app, [data-reactroot] {
+  color: #4d4d4d;
+  height: 100%;
+  margin: 0 auto;
+}
+
+a.active {
+  color: orange;
+}
+
+nav {
+  padding-top: 20px;
+}
